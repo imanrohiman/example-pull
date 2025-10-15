@@ -1,2 +1,1 @@
-Create sample pull
-on main branch an extra commit for a conflict
+conflicting change
